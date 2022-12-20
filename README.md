@@ -1,7 +1,6 @@
-
 # theme-react-wordpress
 
-A simple boilerplate theme for wordpress using react.
+A simple boilerplate theme for wordpress using React. You can read more about setup and installation on my blog: https://manuelmol.nl/blog/29
 
 ## Installation
 
@@ -14,16 +13,19 @@ Open a terminal in the project folder and install the project with npm
   cd theme-react-wordpress
   npm install
 ```
-    
+
 ## Usage/Examples
 
 ### Development:
+
 Start the live server with:
+
 ```bash
   npm run start
 ```
 
 ### Build:
+
 Build the theme with:
 
 ```bash
@@ -31,6 +33,7 @@ Build the theme with:
 ```
 
 Your build theme folder structure should look like this:
+
 ```
 \- build
   |- index.css
@@ -40,9 +43,9 @@ Your build theme folder structure should look like this:
 |- index.php
 |- functions.php
 ```
+
 ## Related
 
 Here are some related projects I took inspiration from:
 
 - [brads-boilerplate-wordpress](https://github.com/LearnWebCode/brads-boilerplate-wordpress)
-
